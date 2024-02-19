@@ -1,4 +1,4 @@
-See the attached PDF and video for detailed explnation of the project.
+See the attached PDF and video for a detailed explnation of the project.
 
 The code for the base-net [Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/pdf/1811.00751.pdf) is taken from https://github.com/Pay20Y/SAR_TF
 
